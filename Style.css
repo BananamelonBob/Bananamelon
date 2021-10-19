@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+  background: liner-gradient (yellow);
+}
+h1{
+  text-shadow: 2px 2px yellow;
+   font-size: 20px;
+}
+p{
+  font-size: 15px;
+}
+#myname{
+    font-family: 'Courgette', cursive;
+}
